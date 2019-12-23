@@ -1,0 +1,10 @@
+<div class="navbar-align">
+  <img src="images/smooth-logo.jpg" class="navbar-brand logo-edit animated tada" alt="logo-image-top" id="animated-img1">
+  <div class="navbar1">
+    <a class="navbar-items1" href="index.html">Home</a>
+    <a class="navbar-items1" href="news.html">Products</a>
+    <a class="navbar-items1" href="contact.html">History</a>
+    <a class="navbar-items1" href="about.html">Contact</a>
+    <a class="navbar-items1" href="about.html">Customer Care</a>
+  </div>
+</div>
