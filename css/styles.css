@@ -1,0 +1,61 @@
+
+body {
+  margin-top: 0;
+  background: radial-gradient(at top,#79bfe9 -10%,#eee 60%);
+
+}
+
+
+.logo-edit {
+  border-radius: 50%;
+  width: 10%;
+  text-align: center;
+}
+
+.navbar-align {
+  text-align: center;
+}
+
+.navbar1 {
+  text-align: center;
+  padding: 15px 15px;
+}
+
+.navbar-items1 {
+  color: black;
+  margin: 10px 10px;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+
+.welcome-text {
+  text-align: center;
+  font-weight: 400;
+  margin-bottom: 1%;
+}
+
+.slider-images {
+  height: 600px;
+}
+
+.carousel .carousel-control-prev-icon, .carousel .carousel-control-next-icon {
+    width: 100px;
+    height: 100px;
+}
+
+
+.test {
+  margin: 0 25%;
+}
+
+@media (max-width: 1200px) {
+  .test {
+    margin: 0 0;
+    height: inherit;
+  }
+}
